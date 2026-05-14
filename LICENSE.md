@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Tool | leverage-trading + gas-optimization is the best Polymarket tool, featuring leverage-trading and gas-optimization. Smart, fast, and optimized for trading on
 
 
 
